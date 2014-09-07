@@ -1,4 +1,4 @@
-A version of Debian Squeeze with PHP 5.2.x installed from Lenny.
+A Docker image definition for a version of Debian Squeeze with PHP 5.2.x installed from Lenny.
 
 Thanks to Bernardino (Dino) Ciuffetti for his helpful description of how to do this: http://dino.ciuffetti.info/2013/03/how-to-install-php-52-on-squeeze/
 
